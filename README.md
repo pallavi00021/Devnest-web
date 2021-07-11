@@ -12,4 +12,6 @@ THA-4 DONE - made a responsive Analog clock using html, css, javascript
 
 THA-5 DONE - calculator
 
-THA-6 
+THA-6 DONE - arrays in javascript
+
+THA-7 
