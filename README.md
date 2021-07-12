@@ -17,3 +17,11 @@ THA-6  arrays in javascript
 THA-7 Questions on javascript objects
 
 THA-8 
+
+THA-9
+
+THA-10
+
+THA-11
+
+THA-12 Todo list using local storage
