@@ -22,6 +22,6 @@ THA-9
 
 THA-10  Card Memory game
 
-THA-11
+THA-11 Quiz using HTMl, CSS and javascript.
 
 THA-12 Todo list using local storage
